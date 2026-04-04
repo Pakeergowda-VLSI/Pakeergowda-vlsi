@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Pakeergowda-VLSI/Pakeergowda-vlsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Pakeergowda👋
 
-Here are some ideas to get you started:
+🔹 VLSI & RTL Design Enthusiast  
+🔹 Building a 64-bit RISC Processor  
+🔹 Interested in ASIC & Embedded Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Verilog / VHDL
+- Digital Design
+- FPGA (Vivado)
+
+## 🚀 Projects
+- 64-bit RISC Processor (Pipelined)
+- Vedic Multiplier
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/pakeergowda-579a6031b
